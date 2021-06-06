@@ -1,2 +1,2 @@
-# mrchair2157-my-c-projects
+# c projects
 my c projects
